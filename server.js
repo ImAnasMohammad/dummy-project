@@ -4,7 +4,7 @@ const app = express();
 
 
 app.get('/',(req,res)=>{
-    res.end(" sdsdfsffsdfs")
+    res.end("Hello world")
 })
 
 
